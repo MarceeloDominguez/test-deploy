@@ -1,0 +1,7 @@
+{
+    "tareas": [
+      { "id": 1, "titulo": "Hacer la compra", "img": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRoT6NNDUONDQmlthWrqIi_frTjsjQT4UZtsJsuxqxLiaFGNl5s3_pBIVxS6-VsFUP_" },
+      { "id": 2, "titulo": "Lavar el coche", "img": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRoT6NNDUONDQmlthWrqIi_frTjsjQT4UZtsJsuxqxLiaFGNl5s3_pBIVxS6-VsFUP_" },
+      { "id": 3, "titulo": "Estudiar para el examen", "img": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRoT6NNDUONDQmlthWrqIi_frTjsjQT4UZtsJsuxqxLiaFGNl5s3_pBIVxS6-VsFUP_" }
+    ]
+}
